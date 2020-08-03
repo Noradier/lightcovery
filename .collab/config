@@ -1,0 +1,11 @@
+[core]
+	bare = false
+	repositoryformatversion = 0
+	filemode = false
+	symlinks = false
+	ignorecase = true
+	logallrefupdates = true
+	excludesFile = .collabignore
+[remote "origin"]
+	url = https://collab.cloud.unity3d.com/api/projects/98e44e51-b4be-4706-8284-1abbc07efcbc/git
+	fetch = +refs/heads/*:refs/remotes/origin/*

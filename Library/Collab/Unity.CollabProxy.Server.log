@@ -1,0 +1,1366 @@
+7/27/2020 12:44:15 PM :: IsRunningAsyncOperations handler took 0.986 ms
+7/27/2020 12:44:15 PM :: IsRunningAsyncOperations handler took 0.6864 ms
+7/27/2020 12:44:15 PM :: IsRunningAsyncOperations handler took 0.5797 ms
+7/27/2020 12:44:15 PM :: GetWorkingDirectoryChangesAsync handler took 10.9996 ms
+7/27/2020 12:44:15 PM :: IsRunningAsyncOperations handler took 0.8246 ms
+7/27/2020 12:44:15 PM :: IsRunningAsyncOperations handler took 0.7402 ms
+7/27/2020 12:44:15 PM :: IsRunningAsyncOperations handler took 0.7689 ms
+7/27/2020 12:44:15 PM :: IsRunningAsyncOperations handler took 0.8561 ms
+7/27/2020 12:44:15 PM :: IsRunningAsyncOperations handler took 0.6971 ms
+7/27/2020 12:44:15 PM :: IsRunningAsyncOperations handler took 0.6298 ms
+7/27/2020 12:44:16 PM :: GetWorkingDirectoryChangesAsync handler took 17.2313 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.954 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6799 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.7903 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6877 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.7939 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.7443 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.7291 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.7545 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.8566 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.8942 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6335 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6989 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.5903 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6094 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.5964 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6804 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.7527 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6395 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6159 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6711 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6048 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.7448 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6567 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6947 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.717 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6979 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6247 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6307 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6456 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.7156 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6613 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.7072 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.8218 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6942 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6976 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.801 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6646 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.7276 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.7397 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.7615 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.7272 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.7634 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.7333 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6841 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6159 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.813 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6854 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.7532 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6182 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6975 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6107 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.7351 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6896 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6549 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.742 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.7328 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6748 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.647 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6776 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.8083 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.7638 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.7439 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.7434 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.7119 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.7021 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.8241 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6618 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6293 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6887 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6108 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6381 ms
+7/27/2020 12:44:18 PM :: IsRunningAsyncOperations handler took 0.6298 ms
+7/27/2020 12:44:19 PM :: IsRunningAsyncOperations handler took 0.6859 ms
+7/27/2020 12:44:19 PM :: IsRunningAsyncOperations handler took 0.8529 ms
+7/27/2020 12:44:19 PM :: IsRunningAsyncOperations handler took 0.6451 ms
+7/27/2020 12:44:19 PM :: IsRunningAsyncOperations handler took 0.7211 ms
+7/27/2020 12:44:19 PM :: IsRunningAsyncOperations handler took 0.7893 ms
+7/27/2020 12:44:19 PM :: IsRunningAsyncOperations handler took 0.9693 ms
+7/27/2020 12:44:19 PM :: IsRunningAsyncOperations handler took 0.8691 ms
+7/27/2020 12:44:19 PM :: IsRunningAsyncOperations handler took 0.7346 ms
+7/27/2020 12:44:19 PM :: IsRunningAsyncOperations handler took 0.6627 ms
+7/27/2020 12:44:19 PM :: IsRunningAsyncOperations handler took 0.6331 ms
+7/27/2020 12:44:19 PM :: IsRunningAsyncOperations handler took 0.8037 ms
+7/27/2020 12:44:19 PM :: IsRunningAsyncOperations handler took 0.6924 ms
+7/27/2020 12:44:19 PM :: IsRunningAsyncOperations handler took 0.7272 ms
+7/27/2020 12:44:19 PM :: IsRunningAsyncOperations handler took 1.0324 ms
+7/27/2020 12:44:19 PM :: IsRunningAsyncOperations handler took 0.6196 ms
+7/27/2020 12:44:19 PM :: IsRunningAsyncOperations handler took 0.8621 ms
+7/27/2020 12:44:19 PM :: IsRunningAsyncOperations handler took 0.7068 ms
+7/27/2020 12:44:19 PM :: IsRunningAsyncOperations handler took 0.7967 ms
+7/27/2020 12:44:19 PM :: IsRunningAsyncOperations handler took 0.7874 ms
+7/27/2020 12:44:19 PM :: IsRunningAsyncOperations handler took 0.6975 ms
+7/27/2020 12:44:19 PM :: IsRunningAsyncOperations handler took 0.698 ms
+7/27/2020 12:44:19 PM :: IsRunningAsyncOperations handler took 0.6673 ms
+7/27/2020 12:44:21 PM :: IsRunningAsyncOperations handler took 1.4795 ms
+7/27/2020 12:44:21 PM :: SetCurrentHead handler took 986.4933 ms
+7/27/2020 12:44:27 PM :: GetWorkingDirectoryChangesAsync handler took 112.5968 ms
+7/27/2020 12:44:27 PM :: IsRunningAsyncOperations handler took 1.0027 ms
+7/27/2020 12:44:28 PM :: GetWorkingDirectoryChangesAsync handler took 44.3506 ms
+7/27/2020 12:44:38 PM :: GetWorkingDirectoryChangesAsync handler took 53.9042 ms
+7/27/2020 12:44:39 PM :: GetWorkingDirectoryChangesAsync handler took 44.391 ms
+7/27/2020 12:44:45 PM :: GetWorkingDirectoryChangesAsync handler took 47.8298 ms
+7/27/2020 12:46:49 PM :: GetWorkingDirectoryChangesAsync handler took 93.5231 ms
+7/27/2020 1:03:09 PM :: GetWorkingDirectoryChangesAsync handler took 49.4636 ms
+Stopping proxy server
+Starting proxy server
+7/27/2020 8:49:03 PM :: RepositoryExists handler took 556.352 ms
+7/27/2020 8:49:03 PM :: InitializeRepository handler took 62.4904 ms
+7/27/2020 8:49:03 PM :: Starting filesystem monitor. Watching dir: C:\Users\user\Documents\Unity Folder\Light-covery
+7/27/2020 8:49:03 PM :: GetWorkingDirectoryChangesAsync handler took 492.1563 ms
+7/27/2020 8:49:10 PM :: SetCurrentHead handler took 565.2577 ms
+7/27/2020 8:49:41 PM :: GetWorkingDirectoryChangesAsync handler took 53.8546 ms
+7/27/2020 8:49:42 PM :: GetWorkingDirectoryChangesAsync handler took 46.8174 ms
+7/27/2020 8:49:43 PM :: IsRunningAsyncOperations handler took 0.8533 ms
+7/27/2020 8:49:43 PM :: IsRunningAsyncOperations handler took 0.6961 ms
+7/27/2020 8:49:49 PM :: GetWorkingDirectoryChangesAsync handler took 77.5202 ms
+7/27/2020 8:50:07 PM :: GetWorkingDirectoryChangesAsync handler took 31.4332 ms
+7/27/2020 8:50:07 PM :: IsRunningAsyncOperations handler took 0.6043 ms
+7/27/2020 8:50:08 PM :: GetWorkingDirectoryChangesAsync handler took 57.1872 ms
+7/27/2020 8:50:17 PM :: GetWorkingDirectoryChangesAsync handler took 34.6611 ms
+7/27/2020 8:50:17 PM :: IsRunningAsyncOperations handler took 0.8256 ms
+7/27/2020 8:50:18 PM :: GetWorkingDirectoryChangesAsync handler took 76.3093 ms
+7/27/2020 8:50:25 PM :: RepositoryExists handler took 1.504 ms
+7/27/2020 8:50:25 PM :: InitializeRepository handler took 4.3038 ms
+7/27/2020 8:50:25 PM :: GetWorkingDirectoryChangesAsync handler took 78.195 ms
+7/27/2020 8:50:26 PM :: SetCurrentHead handler took 695.8071 ms
+7/27/2020 8:50:26 PM :: GetWorkingDirectoryChangesAsync handler took 64.864 ms
+7/27/2020 8:50:26 PM :: IsRunningAsyncOperations handler took 0.729 ms
+7/27/2020 8:50:37 PM :: GetWorkingDirectoryChangesAsync handler took 37.4419 ms
+7/27/2020 8:50:37 PM :: IsRunningAsyncOperations handler took 0.9623 ms
+7/27/2020 8:50:42 PM :: GetWorkingDirectoryChangesAsync handler took 60.6683 ms
+7/27/2020 8:50:42 PM :: IsRunningAsyncOperations handler took 0.7615 ms
+7/27/2020 8:53:22 PM :: GetWorkingDirectoryChangesAsync handler took 46.854 ms
+7/27/2020 8:53:23 PM :: GetWorkingDirectoryChangesAsync handler took 48.6984 ms
+7/27/2020 8:55:44 PM :: GetWorkingDirectoryChangesAsync handler took 199.9675 ms
+7/27/2020 8:55:45 PM :: IsRunningAsyncOperations handler took 0.8654 ms
+7/27/2020 8:55:45 PM :: GetWorkingDirectoryChangesAsync handler took 75.3637 ms
+7/27/2020 8:55:48 PM :: GetWorkingDirectoryChangesAsync handler took 43.8229 ms
+7/27/2020 8:55:48 PM :: IsRunningAsyncOperations handler took 2.0336 ms
+7/27/2020 8:55:49 PM :: GetWorkingDirectoryChangesAsync handler took 44.4276 ms
+7/27/2020 8:55:56 PM :: RepositoryExists handler took 1.8505 ms
+7/27/2020 8:55:56 PM :: InitializeRepository handler took 6.0086 ms
+7/27/2020 8:55:56 PM :: GetWorkingDirectoryChangesAsync handler took 55.7356 ms
+7/27/2020 8:55:57 PM :: SetCurrentHead handler took 1376.5482 ms
+7/27/2020 8:55:57 PM :: GetWorkingDirectoryChangesAsync handler took 44.225 ms
+7/27/2020 8:56:00 PM :: IsRunningAsyncOperations handler took 0.5941 ms
+7/27/2020 8:56:59 PM :: GetWorkingDirectoryChangesAsync handler took 30.1992 ms
+7/27/2020 8:57:06 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-shm
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-shm
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 8:57:07 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 8:57:08 PM :: GetWorkingDirectoryChangesAsync handler took 43.7593 ms
+7/27/2020 8:57:10 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 8:57:21 PM :: GetWorkingDirectoryChangesAsync handler took 71.654 ms
+7/27/2020 8:57:21 PM :: IsRunningAsyncOperations handler took 0.9016 ms
+7/27/2020 8:57:22 PM :: GetWorkingDirectoryChangesAsync handler took 45.8179 ms
+7/27/2020 8:57:23 PM :: GetWorkingDirectoryChangesAsync handler took 41.2865 ms
+7/27/2020 8:57:29 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 8:57:29 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 8:57:36 PM :: GetWorkingDirectoryChangesAsync handler took 43.9101 ms
+7/27/2020 8:57:37 PM :: GetWorkingDirectoryChangesAsync handler took 61.415 ms
+7/27/2020 8:57:39 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 8:57:40 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 8:57:42 PM :: GetWorkingDirectoryChangesAsync handler took 70.0229 ms
+7/27/2020 8:57:44 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 8:57:45 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 8:57:49 PM :: RepositoryExists handler took 2.036 ms
+7/27/2020 8:57:49 PM :: InitializeRepository handler took 5.6009 ms
+7/27/2020 8:57:49 PM :: GetWorkingDirectoryChangesAsync handler took 44.8941 ms
+7/27/2020 8:57:50 PM :: SetCurrentHead handler took 910.4269 ms
+7/27/2020 8:57:50 PM :: GetWorkingDirectoryChangesAsync handler took 38.675 ms
+7/27/2020 8:57:51 PM :: IsRunningAsyncOperations handler took 1.2578 ms
+7/27/2020 8:58:12 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 8:58:12 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 8:58:16 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 8:58:17 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 8:58:19 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 8:58:20 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 8:58:28 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 8:58:28 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 8:58:32 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 8:58:33 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 8:58:56 PM :: GetWorkingDirectoryChangesAsync handler took 61.7637 ms
+7/27/2020 8:59:00 PM :: RepositoryExists handler took 2.1569 ms
+7/27/2020 8:59:00 PM :: InitializeRepository handler took 4.3654 ms
+7/27/2020 8:59:00 PM :: GetWorkingDirectoryChangesAsync handler took 35.6053 ms
+7/27/2020 8:59:00 PM :: SetCurrentHead handler took 424.3325 ms
+7/27/2020 8:59:00 PM :: GetWorkingDirectoryChangesAsync handler took 45.0077 ms
+7/27/2020 8:59:01 PM :: IsRunningAsyncOperations handler took 0.4995 ms
+7/27/2020 8:59:16 PM :: GetWorkingDirectoryChangesAsync handler took 47.9782 ms
+7/27/2020 8:59:16 PM :: IsRunningAsyncOperations handler took 0.832 ms
+7/27/2020 8:59:49 PM :: GetWorkingDirectoryChangesAsync handler took 40.4628 ms
+7/27/2020 8:59:49 PM :: IsRunningAsyncOperations handler took 0.7031 ms
+7/27/2020 8:59:56 PM :: GetWorkingDirectoryChangesAsync handler took 97.696 ms
+7/27/2020 8:59:56 PM :: IsRunningAsyncOperations handler took 1.305 ms
+7/27/2020 8:59:57 PM :: GetWorkingDirectoryChangesAsync handler took 90.3346 ms
+7/27/2020 9:00:03 PM :: GetWorkingDirectoryChangesAsync handler took 42.7937 ms
+7/27/2020 9:00:03 PM :: IsRunningAsyncOperations handler took 0.627 ms
+7/27/2020 9:00:09 PM :: GetWorkingDirectoryChangesAsync handler took 88.614 ms
+7/27/2020 9:00:09 PM :: IsRunningAsyncOperations handler took 1.3268 ms
+7/27/2020 9:01:19 PM :: GetWorkingDirectoryChangesAsync handler took 50.9959 ms
+7/27/2020 9:01:21 PM :: GetWorkingDirectoryChangesAsync handler took 49.0787 ms
+7/27/2020 9:02:17 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:02:17 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:02:22 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:02:22 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:02:30 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:02:31 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:02:33 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:02:33 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:02:42 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:02:43 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:02:49 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:02:49 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:02:55 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:02:56 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:03:00 PM :: GetWorkingDirectoryChangesAsync handler took 76.1099 ms
+7/27/2020 9:03:01 PM :: GetWorkingDirectoryChangesAsync handler took 63.3971 ms
+7/27/2020 9:03:11 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:03:12 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:03:20 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:03:20 PM :: GetWorkingDirectoryChangesAsync handler took 56.7588 ms
+7/27/2020 9:03:21 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:03:21 PM :: GetWorkingDirectoryChangesAsync handler took 40.275 ms
+7/27/2020 9:03:23 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:03:24 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:04:40 PM :: RepositoryExists handler took 1.8597 ms
+7/27/2020 9:04:40 PM :: InitializeRepository handler took 3.2691 ms
+7/27/2020 9:04:40 PM :: GetWorkingDirectoryChangesAsync handler took 41.1715 ms
+7/27/2020 9:04:41 PM :: SetCurrentHead handler took 565.5494 ms
+7/27/2020 9:04:41 PM :: GetWorkingDirectoryChangesAsync handler took 54.918 ms
+7/27/2020 9:04:42 PM :: IsRunningAsyncOperations handler took 1.2063 ms
+7/27/2020 9:04:58 PM :: GetWorkingDirectoryChangesAsync handler took 84.442 ms
+7/27/2020 9:04:58 PM :: IsRunningAsyncOperations handler took 0.7304 ms
+7/27/2020 9:05:06 PM :: GetWorkingDirectoryChangesAsync handler took 58.2289 ms
+7/27/2020 9:05:09 PM :: GetWorkingDirectoryChangesAsync handler took 62.4984 ms
+7/27/2020 9:05:27 PM :: GetWorkingDirectoryChangesAsync handler took 45.7503 ms
+7/27/2020 9:11:11 PM :: RepositoryExists handler took 1.9896 ms
+7/27/2020 9:11:11 PM :: InitializeRepository handler took 5.484 ms
+7/27/2020 9:11:12 PM :: GetWorkingDirectoryChangesAsync handler took 63.7574 ms
+7/27/2020 9:11:12 PM :: SetCurrentHead handler took 389.1094 ms
+7/27/2020 9:11:12 PM :: GetWorkingDirectoryChangesAsync handler took 36.4239 ms
+7/27/2020 9:12:24 PM :: IsRunningAsyncOperations handler took 1.1863 ms
+7/27/2020 9:13:30 PM :: RepositoryExists handler took 2.0926 ms
+7/27/2020 9:13:30 PM :: InitializeRepository handler took 4.0784 ms
+7/27/2020 9:13:30 PM :: GetWorkingDirectoryChangesAsync handler took 39.5715 ms
+7/27/2020 9:13:31 PM :: SetCurrentHead handler took 1408.1025 ms
+7/27/2020 9:13:31 PM :: GetWorkingDirectoryChangesAsync handler took 47.6025 ms
+7/27/2020 9:14:01 PM :: IsRunningAsyncOperations handler took 0.9396 ms
+7/27/2020 9:14:03 PM :: GetWorkingDirectoryChangesAsync handler took 31.015 ms
+7/27/2020 9:14:03 PM :: IsRunningAsyncOperations handler took 0.4684 ms
+7/27/2020 9:14:04 PM :: GetWorkingDirectoryChangesAsync handler took 60.8264 ms
+7/27/2020 9:14:08 PM :: GetWorkingDirectoryChangesAsync handler took 52.2481 ms
+7/27/2020 9:14:09 PM :: GetWorkingDirectoryChangesAsync handler took 35.0864 ms
+7/27/2020 9:14:10 PM :: GetWorkingDirectoryChangesAsync handler took 65.2675 ms
+7/27/2020 9:16:22 PM :: GetWorkingDirectoryChangesAsync handler took 41.6849 ms
+7/27/2020 9:16:24 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:16:25 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:17:13 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:17:14 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:17:32 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:17:33 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:17:37 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:17:38 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:17:47 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:17:48 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:17:54 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:17:55 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:18:11 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:18:12 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:18:24 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:18:24 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:18:26 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:18:27 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:18:29 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:18:30 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:18:35 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:18:35 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:18:39 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:19:05 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:19:06 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:19:11 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:19:11 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:19:13 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:19:13 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:19:21 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:19:21 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:19:23 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:19:24 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:19:37 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:19:38 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:19:43 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:19:43 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:19:50 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:19:51 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:19:58 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:19:58 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:20:01 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:20:02 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:20:07 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:20:08 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:20:21 PM :: GetWorkingDirectoryChangesAsync handler took 51.059 ms
+7/27/2020 9:20:21 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:20:22 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:20:24 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:20:32 PM :: RepositoryExists handler took 2.0564 ms
+7/27/2020 9:20:32 PM :: InitializeRepository handler took 4.0134 ms
+7/27/2020 9:20:32 PM :: GetWorkingDirectoryChangesAsync handler took 75.3043 ms
+7/27/2020 9:20:34 PM :: SetCurrentHead handler took 1525.4071 ms
+7/27/2020 9:20:34 PM :: GetWorkingDirectoryChangesAsync handler took 46.5243 ms
+7/27/2020 9:20:34 PM :: IsRunningAsyncOperations handler took 0.6071 ms
+7/27/2020 9:20:39 PM :: RepositoryExists handler took 2.2015 ms
+7/27/2020 9:20:39 PM :: InitializeRepository handler took 3.956 ms
+7/27/2020 9:20:39 PM :: GetWorkingDirectoryChangesAsync handler took 38.8076 ms
+7/27/2020 9:20:39 PM :: SetCurrentHead handler took 183.7333 ms
+7/27/2020 9:20:39 PM :: GetWorkingDirectoryChangesAsync handler took 38.9528 ms
+7/27/2020 9:20:53 PM :: IsRunningAsyncOperations handler took 0.7305 ms
+7/27/2020 9:21:10 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:21:10 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:21:12 PM :: GetWorkingDirectoryChangesAsync handler took 43.9958 ms
+7/27/2020 9:21:15 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:21:15 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:21:17 PM :: RepositoryExists handler took 3.0066 ms
+7/27/2020 9:21:17 PM :: InitializeRepository handler took 5.6941 ms
+7/27/2020 9:21:17 PM :: GetWorkingDirectoryChangesAsync handler took 68.4434 ms
+7/27/2020 9:21:17 PM :: SetCurrentHead handler took 203.6016 ms
+7/27/2020 9:21:17 PM :: GetWorkingDirectoryChangesAsync handler took 46.1162 ms
+7/27/2020 9:21:18 PM :: IsRunningAsyncOperations handler took 1.1715 ms
+7/27/2020 9:21:27 PM :: RepositoryExists handler took 2.3304 ms
+7/27/2020 9:21:27 PM :: InitializeRepository handler took 9.3946 ms
+7/27/2020 9:21:28 PM :: GetWorkingDirectoryChangesAsync handler took 47.6856 ms
+7/27/2020 9:21:28 PM :: SetCurrentHead handler took 192.5648 ms
+7/27/2020 9:21:28 PM :: GetWorkingDirectoryChangesAsync handler took 36.2198 ms
+7/27/2020 9:22:00 PM :: IsRunningAsyncOperations handler took 0.5533 ms
+7/27/2020 9:22:02 PM :: RepositoryExists handler took 1.9437 ms
+7/27/2020 9:22:02 PM :: InitializeRepository handler took 7.462 ms
+7/27/2020 9:22:02 PM :: GetWorkingDirectoryChangesAsync handler took 52.2148 ms
+7/27/2020 9:22:02 PM :: SetCurrentHead handler took 171.0396 ms
+7/27/2020 9:22:02 PM :: GetWorkingDirectoryChangesAsync handler took 44.5403 ms
+7/27/2020 9:22:28 PM :: IsRunningAsyncOperations handler took 0.4948 ms
+7/27/2020 9:22:46 PM :: GetWorkingDirectoryChangesAsync handler took 44.3492 ms
+7/27/2020 9:22:48 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:22:48 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:22:51 PM :: RepositoryExists handler took 2.4362 ms
+7/27/2020 9:22:51 PM :: InitializeRepository handler took 5.5346 ms
+7/27/2020 9:22:51 PM :: GetWorkingDirectoryChangesAsync handler took 53.0973 ms
+7/27/2020 9:22:51 PM :: SetCurrentHead handler took 190.6657 ms
+7/27/2020 9:22:51 PM :: GetWorkingDirectoryChangesAsync handler took 43.8006 ms
+7/27/2020 9:22:53 PM :: IsRunningAsyncOperations handler took 1.204 ms
+7/27/2020 9:22:56 PM :: RepositoryExists handler took 2.4988 ms
+7/27/2020 9:22:56 PM :: InitializeRepository handler took 4.7527 ms
+7/27/2020 9:22:56 PM :: GetWorkingDirectoryChangesAsync handler took 44.5421 ms
+7/27/2020 9:22:56 PM :: SetCurrentHead handler took 168.2254 ms
+7/27/2020 9:22:56 PM :: GetWorkingDirectoryChangesAsync handler took 43.1124 ms
+7/27/2020 9:23:08 PM :: IsRunningAsyncOperations handler took 0.9887 ms
+7/27/2020 9:23:26 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:23:26 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:23:31 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:23:31 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:23:52 PM :: GetWorkingDirectoryChangesAsync handler took 51.8883 ms
+7/27/2020 9:23:54 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:23:54 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:23:56 PM :: RepositoryExists handler took 4.3339 ms
+7/27/2020 9:23:56 PM :: InitializeRepository handler took 3.5107 ms
+7/27/2020 9:23:57 PM :: GetWorkingDirectoryChangesAsync handler took 38.7511 ms
+7/27/2020 9:23:57 PM :: SetCurrentHead handler took 435.6647 ms
+7/27/2020 9:23:57 PM :: GetWorkingDirectoryChangesAsync handler took 37.2828 ms
+7/27/2020 9:24:01 PM :: RepositoryExists handler took 2.8308 ms
+7/27/2020 9:24:01 PM :: InitializeRepository handler took 3.0808 ms
+7/27/2020 9:24:01 PM :: GetWorkingDirectoryChangesAsync handler took 49.388 ms
+7/27/2020 9:24:01 PM :: SetCurrentHead handler took 185.9353 ms
+7/27/2020 9:24:01 PM :: GetWorkingDirectoryChangesAsync handler took 37.3746 ms
+7/27/2020 9:26:01 PM :: IsRunningAsyncOperations handler took 1.235 ms
+7/27/2020 9:26:43 PM :: GetWorkingDirectoryChangesAsync handler took 47.9722 ms
+7/27/2020 9:26:44 PM :: GetWorkingDirectoryChangesAsync handler took 92.7513 ms
+7/27/2020 9:26:48 PM :: Unable to generate hash for .vs\Light-covery\v15\.suo
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\.suo
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/27/2020 9:26:48 PM :: GetWorkingDirectoryChangesAsync handler took 50.4956 ms
+Stopping proxy server
+Starting proxy server
+7/29/2020 4:40:20 PM :: RepositoryExists handler took 224.2114 ms
+7/29/2020 4:40:21 PM :: InitializeRepository handler took 27.8618 ms
+7/29/2020 4:40:21 PM :: Starting filesystem monitor. Watching dir: C:\Users\user\Documents\Unity Folder\Light-covery
+7/29/2020 4:40:21 PM :: GetWorkingDirectoryChangesAsync handler took 439.2371 ms
+7/29/2020 4:40:28 PM :: SetCurrentHead handler took 1279.7574 ms
+7/29/2020 4:50:15 PM :: RepositoryExists handler took 2.9185 ms
+7/29/2020 4:50:15 PM :: InitializeRepository handler took 5.7512 ms
+7/29/2020 4:50:15 PM :: GetWorkingDirectoryChangesAsync handler took 51.2306 ms
+7/29/2020 4:50:17 PM :: SetCurrentHead handler took 1510.5471 ms
+7/29/2020 4:50:17 PM :: GetWorkingDirectoryChangesAsync handler took 47.0906 ms
+7/29/2020 4:57:51 PM :: RepositoryExists handler took 2.554 ms
+7/29/2020 4:57:51 PM :: InitializeRepository handler took 5.3825 ms
+7/29/2020 4:57:51 PM :: GetWorkingDirectoryChangesAsync handler took 41.2883 ms
+7/29/2020 4:57:51 PM :: SetCurrentHead handler took 590.1088 ms
+7/29/2020 4:57:51 PM :: GetWorkingDirectoryChangesAsync handler took 42.6602 ms
+Stopping proxy server
+Starting proxy server
+7/29/2020 7:56:41 PM :: RepositoryExists handler took 352.6461 ms
+7/29/2020 7:56:42 PM :: InitializeRepository handler took 30.6504 ms
+7/29/2020 7:56:42 PM :: Starting filesystem monitor. Watching dir: C:\Users\user\Documents\Unity Folder\Light-covery
+7/29/2020 7:56:42 PM :: GetWorkingDirectoryChangesAsync handler took 401.99 ms
+7/29/2020 7:56:48 PM :: SetCurrentHead handler took 534.3814 ms
+7/29/2020 7:57:23 PM :: GetWorkingDirectoryChangesAsync handler took 32.9099 ms
+7/29/2020 7:59:02 PM :: GetWorkingDirectoryChangesAsync handler took 41.3737 ms
+7/29/2020 8:00:19 PM :: GetWorkingDirectoryChangesAsync handler took 67.7115 ms
+7/29/2020 8:00:27 PM :: GetWorkingDirectoryChangesAsync handler took 87.622 ms
+7/29/2020 8:00:32 PM :: GetWorkingDirectoryChangesAsync handler took 27.4249 ms
+7/29/2020 8:10:43 PM :: GetWorkingDirectoryChangesAsync handler took 39.5098 ms
+7/29/2020 8:11:52 PM :: GetWorkingDirectoryChangesAsync handler took 33.8439 ms
+7/29/2020 8:12:01 PM :: GetWorkingDirectoryChangesAsync handler took 30.7896 ms
+7/29/2020 8:12:48 PM :: GetWorkingDirectoryChangesAsync handler took 95.257 ms
+7/29/2020 8:13:15 PM :: GetWorkingDirectoryChangesAsync handler took 27.4574 ms
+7/29/2020 8:14:38 PM :: GetWorkingDirectoryChangesAsync handler took 82.7756 ms
+7/29/2020 8:15:29 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-shm
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-shm
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:15:36 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:15:50 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:15:51 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:16:11 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:16:11 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:16:14 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:16:15 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:16:38 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:16:42 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:16:42 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:16:45 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:16:45 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:17:04 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:17:06 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:17:07 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:17:10 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:17:10 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:17:11 PM :: GetWorkingDirectoryChangesAsync handler took 35.4361 ms
+7/29/2020 8:17:13 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:17:14 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:17:20 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:17:27 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:17:27 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:17:36 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:17:46 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:17:46 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:17:47 PM :: GetWorkingDirectoryChangesAsync handler took 97.4831 ms
+7/29/2020 8:17:49 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:17:49 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:17:51 PM :: GetWorkingDirectoryChangesAsync handler took 68.2444 ms
+7/29/2020 8:17:54 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:17:55 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:17:59 PM :: RepositoryExists handler took 2.6023 ms
+7/29/2020 8:17:59 PM :: InitializeRepository handler took 4.9183 ms
+7/29/2020 8:18:00 PM :: GetWorkingDirectoryChangesAsync handler took 46.9648 ms
+7/29/2020 8:18:00 PM :: SetCurrentHead handler took 505.8671 ms
+7/29/2020 8:18:00 PM :: GetWorkingDirectoryChangesAsync handler took 41.3 ms
+7/29/2020 8:19:06 PM :: GetWorkingDirectoryChangesAsync handler took 43.9945 ms
+7/29/2020 8:19:07 PM :: GetWorkingDirectoryChangesAsync handler took 32.8677 ms
+7/29/2020 8:19:34 PM :: GetWorkingDirectoryChangesAsync handler took 49.6863 ms
+7/29/2020 8:19:58 PM :: GetWorkingDirectoryChangesAsync handler took 52.4953 ms
+7/29/2020 8:20:14 PM :: GetWorkingDirectoryChangesAsync handler took 37.3134 ms
+7/29/2020 8:20:20 PM :: RepositoryExists handler took 2.8754 ms
+7/29/2020 8:20:20 PM :: InitializeRepository handler took 3.3776 ms
+7/29/2020 8:20:20 PM :: GetWorkingDirectoryChangesAsync handler took 32.4684 ms
+7/29/2020 8:20:21 PM :: SetCurrentHead handler took 343.0113 ms
+7/29/2020 8:20:21 PM :: GetWorkingDirectoryChangesAsync handler took 34.1287 ms
+7/29/2020 8:21:48 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:22:38 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:22:38 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:22:40 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:22:41 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:22:44 PM :: GetWorkingDirectoryChangesAsync handler took 39.974 ms
+7/29/2020 8:22:45 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:22:47 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:22:48 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:23:10 PM :: GetWorkingDirectoryChangesAsync handler took 45.2201 ms
+7/29/2020 8:23:13 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:23:18 PM :: RepositoryExists handler took 2.1802 ms
+7/29/2020 8:23:18 PM :: InitializeRepository handler took 4.0126 ms
+7/29/2020 8:23:18 PM :: GetWorkingDirectoryChangesAsync handler took 40.9197 ms
+7/29/2020 8:23:19 PM :: SetCurrentHead handler took 389.1891 ms
+7/29/2020 8:23:19 PM :: GetWorkingDirectoryChangesAsync handler took 44.365 ms
+7/29/2020 8:23:30 PM :: GetWorkingDirectoryChangesAsync handler took 63.879 ms
+7/29/2020 8:23:33 PM :: Unable to generate hash for .vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+System.IO.IOException: Sharing violation on path C:\Users\user\Documents\Unity Folder\Light-covery\.vs\Light-covery\v15\Server\sqlite3\storage.ide-wal
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share, System.Int32 bufferSize, System.Boolean anonymous, System.IO.FileOptions options) [0x0019e] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at System.IO.FileStream..ctor (System.String path, System.IO.FileMode mode, System.IO.FileAccess access, System.IO.FileShare share) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at (wrapper remoting-invoke-with-check) System.IO.FileStream..ctor(string,System.IO.FileMode,System.IO.FileAccess,System.IO.FileShare)
+  at System.IO.File.OpenRead (System.String path) [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
+  at CollabProxy.PathHashMap.CalculateFileMd5Hash (System.String filePath) [0x00016] in <9824e636ba2746bf86a4c681ecf75846>:0 
+7/29/2020 8:23:34 PM :: RepositoryExists handler took 2.0999 ms
+7/29/2020 8:23:34 PM :: InitializeRepository handler took 6.029 ms
+7/29/2020 8:23:34 PM :: GetWorkingDirectoryChangesAsync handler took 46.9547 ms
+7/29/2020 8:23:34 PM :: SetCurrentHead handler took 186.3642 ms
+7/29/2020 8:23:34 PM :: GetWorkingDirectoryChangesAsync handler took 51.9045 ms
+7/29/2020 8:24:09 PM :: GetWorkingDirectoryChangesAsync handler took 44.8227 ms
+7/29/2020 8:24:33 PM :: GetWorkingDirectoryChangesAsync handler took 34.0141 ms
+7/29/2020 8:24:34 PM :: GetWorkingDirectoryChangesAsync handler took 95.9059 ms
+7/29/2020 8:24:39 PM :: GetWorkingDirectoryChangesAsync handler took 49.7567 ms
+7/29/2020 8:25:42 PM :: GetWorkingDirectoryChangesAsync handler took 57.8741 ms
+7/29/2020 8:27:13 PM :: GetWorkingDirectoryChangesAsync handler took 39.5632 ms
+7/29/2020 8:27:36 PM :: GetWorkingDirectoryChangesAsync handler took 90.5099 ms
+7/29/2020 8:28:20 PM :: GetWorkingDirectoryChangesAsync handler took 52.1164 ms
+7/29/2020 8:29:23 PM :: RepositoryExists handler took 4.5667 ms
+7/29/2020 8:29:23 PM :: InitializeRepository handler took 5.0848 ms
+7/29/2020 8:29:23 PM :: GetWorkingDirectoryChangesAsync handler took 42.9955 ms
+7/29/2020 8:29:24 PM :: SetCurrentHead handler took 473.6626 ms
+7/29/2020 8:29:24 PM :: GetWorkingDirectoryChangesAsync handler took 66.1097 ms
+7/29/2020 8:30:18 PM :: GetWorkingDirectoryChangesAsync handler took 123.3721 ms
+7/29/2020 8:30:21 PM :: GetWorkingDirectoryChangesAsync handler took 89.2624 ms
+Stopping proxy server
+Starting proxy server
+7/29/2020 8:38:17 PM :: RepositoryExists handler took 192.2128 ms
+7/29/2020 8:38:17 PM :: InitializeRepository handler took 24.358 ms
+7/29/2020 8:38:18 PM :: Starting filesystem monitor. Watching dir: C:\Users\user\Documents\Unity Folder\Light-covery
+7/29/2020 8:38:18 PM :: GetWorkingDirectoryChangesAsync handler took 212.346 ms
+7/29/2020 8:38:22 PM :: SetCurrentHead handler took 568.122 ms
+7/29/2020 8:38:24 PM :: GetWorkingDirectoryChangesAsync handler took 27.6184 ms
+Stopping proxy server
+Starting proxy server
+8/3/2020 2:17:35 PM :: RepositoryExists handler took 368.2082 ms
+8/3/2020 2:17:59 PM :: RepositoryExists handler took 1.4011 ms
+8/3/2020 2:17:59 PM :: InitializeRepository handler took 214.643 ms
+8/3/2020 2:17:59 PM :: SetRemoteOrigin handler took 69.4873 ms
+8/3/2020 2:17:59 PM :: Starting filesystem monitor. Watching dir: C:\Users\user\Documents\GitHub\lightcovery
+8/3/2020 2:18:00 PM :: GetWorkingDirectoryChangesAsync handler took 360.6372 ms
+8/3/2020 2:18:00 PM :: SetCurrentHead handler took 722.6374 ms
+8/3/2020 2:18:00 PM :: GetWorkingDirectoryChangesAsync handler took 58.8118 ms
+Stopping proxy server
